@@ -1,17 +1,18 @@
-# Hi there, I'm Krushna Pawar 👋
+<h1 align="center">Hi there, I'm Krushna Pawar 👋</h1>
 
-### 💻 Computer Science Engineering Student | Aspiring Software Developer
+<h3 align="center">💻 Computer Science Engineering Student | Aspiring Software Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing a B.Tech in Computer Science Engineering.
-- 🚀 Passionate about programming and software development.
+- 🎓 Currently pursuing a B.Tech in Computer Science Engineering at DYPIU.
+- 🚀 Focused on mastering fundamental programming languages, logic, and data structures.
 - 🐍 Currently learning and improving my Python skills.
-- 💡 Interested in problem solving, programming and technology.
 - 🔧 Building my programming and development skills.
-- 🌱 Currently exploring new technologies and development tools.
+- 🌱 exploring new technologies and development tools.
+
+
 
 ---
 
@@ -104,4 +105,4 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+
